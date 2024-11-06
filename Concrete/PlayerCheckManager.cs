@@ -8,7 +8,7 @@ using GameDemo.Entities;
 using ServiceReference1;
 
 namespace GameDemo.Concrete
-{
+{//
     public class PlayerCheckManager : IPlayerCheckService
     {
         public bool CheckIfRealPlayer(Player player)
